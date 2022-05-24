@@ -1,0 +1,4 @@
+cd "C:\Users\kjones\AppData\Roaming\Python\Python38\Scripts"
+pyinstaller --onefile "C:\Users\kjones\source\repos\ImportExcelToJira\ImportExcelToJira\ImportExcelToJira.py
+
+cd "C:\Users\kjones\AppData\Roaming\Python\Python37\Scripts" && pyinstaller --onefile "C:\Users\kjones\source\repos\ImportExcelToJira\ImportExcelToJira\ImportExcelToJira.py
